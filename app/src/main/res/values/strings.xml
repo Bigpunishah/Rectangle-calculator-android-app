@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Rectangle Calculator</string>
+    <string name="width_text_view">Width</string>
+    <!--  Leave inputs empty so user does
+          not need to delete values placed within
+
+          Also - use `Hint` to have a message like
+          "Enter Width" & have it disappear.
+      -->
+    <string name="width_input"></string>
+    <string name="height_text_view">Height</string>
+    <string name="height_input"></string>
+    <string name="area_text_view">Area</string>
+    <string name="area_calculation">0.00</string>
+    <string name="perimeter_text_view">Perimeter</string>
+    <string name="perimeter_calculation">0.00</string>
+</resources>
